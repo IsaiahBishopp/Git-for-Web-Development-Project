@@ -9,6 +9,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     3. What is an attribute and where do we put it?
          An attribute is a Modifier of HTML open tags.
     4. What is the h1 tag used for? How many times should I use it on a page?
+    
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
