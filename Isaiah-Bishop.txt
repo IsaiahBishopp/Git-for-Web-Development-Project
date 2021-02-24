@@ -9,18 +9,29 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     3. What is an attribute and where do we put it?
          An attribute is a Modifier of HTML open tags.
     4. What is the h1 tag used for? How many times should I use it on a page?
-    
+    The h1 tag may only be used once in a web page documetent. The h1 tag tell the browser of most important text
     5. Name two tags that have required attributes
+        two tags that require an attribute are <img> and <a>
     6. What do we put in the head of our HTML document? 
+        metadata goes into the head of the html document everything in the head element does not apprear in the browser.
     7. What is an id? 
+    an id attribute calls on a specifies a unique element for naming 
     8. What elements can I add an id to? 
+    any HTML element i beileve .
     9. How many times can I use the same id on a page? 
+    once
     10. What is a class? 
+        the class attribute is used to call upon class names for elements
     11. What elements can I add a class to? 
+         commonly used for style sheets
     12. How many times can I use the same class on a page? 
+    any amount
     13. How do I get my link to open in a new tab?
+    < a href = link >
     14. What is the alt attribute in the image tag used for? 
+    alternative text
     15. How do I reference an id?
+        < h1 ( id= ) >
     16. What is the difference between a section and a div
     17. What is CSS used for? 
     18. How to we select an element? Example - every h2 on the page
