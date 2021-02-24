@@ -33,9 +33,14 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     15. How do I reference an id?
         < h1 ( id= ) >
     16. What is the difference between a section and a div
+        section specifies content is group while div does not
     17. What is CSS used for? 
+        presentaion 
     18. How to we select an element? Example - every h2 on the page
+        by using selectors
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    an id can only be called upon once whereas a class can be called multiple times.
+    maybe an id to an <a> tag? And a class to a <p>
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
