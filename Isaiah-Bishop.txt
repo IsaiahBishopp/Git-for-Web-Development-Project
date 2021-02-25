@@ -62,19 +62,32 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     29. How do I select everything on the page? 
         *
     30. How do I write a comment in CSS?
-    // comment //
+        // comment //
     31. How do I find out what file I am in, when I am using the command line? 
-    32. Using the command line - how do I see a list of files/folders in my current folder?
-    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+        ls
+    32. Using the command line - how do I see a list of files/folders in my current folder? ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this?
+    rm, deletes forever 
     34. Why should I use version control? 
+        helps you work faster as well has better functionality with teams on devs
     35. How often should I commit to github?
+        every 20 mins or after important changes
     36. What is the command we would use to push our repo up to github? 
+        git push
     37. Walk me through Lambda's git flow. 
+        fork > clone > git clone into git > cd into it> git checkout -b firstname-lastname> ( begin coding) > git add . > gitcommit -m " add descriptive text" > git push -u origin branch-name>
 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
+    block creates a new line while inline does not
+    2. What happens when an element is positioned absolutely?
+        overlaps
+
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        margin?
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+        <p>,<h1-6>,<div>
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+        box model deals with design and layout. and wraps around every html element. 
+        box-sizing: border-box
