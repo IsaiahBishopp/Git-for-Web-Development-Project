@@ -8,17 +8,21 @@
     4. What is the h1 tag used for? How many times should I use it on a page?
         h1 text refers to the most important heading(s). You may use a h1 tag only once on a webpage.
     5. Name two tags that have required attributes
-        <img> & 
-    6. What do we put in the head of our HTML document? 
+        <img> & <link>
+    6. What do we put in the head of our HTML document?
+            <header> 
     7. What is an id? 
     8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
+    9. How many times can I use the same id on a page?
+        Once 
+    10. What is a class?
+            A group of elements that are the same or similar 
     11. What elements can I add a class to? 
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
-    
-    14. What is the alt attribute in the image tag used for? 
+            anchor element
+    14. What is the alt attribute in the image tag used for?
+            description 
     15. How do I reference an id?
     16. What is the difference between a section and a div
     17. What is CSS used for?
@@ -49,7 +53,7 @@
             eveery 20 minutes or when you make an important change
     36. What is the command we would use to push our repo up to github? 
     37. Walk me through Lambda's git flow. 
-
+            find directory> go into> find or make folder> go into that> open github fork and cloone repository> clone into git> add and commit frequently> push>
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
