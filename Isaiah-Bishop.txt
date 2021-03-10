@@ -1,8 +1,14 @@
- --> 1. What is Semantic HTML? 
+ --> 1. What is Semantic HTML?
+          HTML is used for structure of a webpage and it's content
+
     2. What is HTML used for? 
-    3. What is an attribute and where do we put it? 
+        HTML  that givves meanign or context to our code, We use ir fpr accessibility purposes
+    3. What is an attribute and where do we put it?
+         An attribute is a Modifier of HTML open tags.
     4. What is the h1 tag used for? How many times should I use it on a page?
+        h1 text refers to the most important heading(s). You may use a h1 tag only once on a webpage.
     5. Name two tags that have required attributes
+        <img> & 
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
     8. What elements can I add an id to? 
@@ -11,10 +17,12 @@
     11. What elements can I add a class to? 
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
+    
     14. What is the alt attribute in the image tag used for? 
     15. How do I reference an id?
     16. What is the difference between a section and a div
-    17. What is CSS used for? 
+    17. What is CSS used for?
+            styling of a webpage
     18. How to we select an element? Example - every h2 on the page
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
@@ -26,13 +34,19 @@
     26. What do we use to change the spacing between letters?
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
     28. How do I add a 1px border around my div that is dotted and black?
-    29. How do I select everything on the page? 
+    29. How do I select everything on the page?
+            with an *
     30. How do I write a comment in CSS?
-    31. How do I find out what file I am in, when I am using the command line? 
+            // comment // or <!-- comment --!>
+    31. How do I find out what file I am in, when I am using the command line?
+        cd 
     32. Using the command line - how do I see a list of files/folders in my current folder?
-    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+        ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this?
+        rmdir 
     34. Why should I use version control? 
     35. How often should I commit to github?
+            eveery 20 minutes or when you make an important change
     36. What is the command we would use to push our repo up to github? 
     37. Walk me through Lambda's git flow. 
 
