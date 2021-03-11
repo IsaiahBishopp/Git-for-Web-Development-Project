@@ -1,4 +1,9 @@
- --> 1. What is Semantic HTML?
+ Link --> https://codepen.io/IsaiahBishopp/pen/KKNrqNw?editors=1100
+ 
+ 
+ 
+ 
+  1. What is Semantic HTML?
           HTML is used for structure of a webpage and it's content
 
     2. What is HTML used for? 
